@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello, Cloud!";
+echo "Hello, Telefonica Cloud!";
